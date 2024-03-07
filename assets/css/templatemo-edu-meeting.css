@@ -787,7 +787,8 @@ services
 
 .services .item {
   /* background-color:orangered; */
-  background-image: url('../images/service-item-bg.jpg');
+  /* background-image: url('../images/service-item-bg.jpg'); */
+  background-color: orangered;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
